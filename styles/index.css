@@ -1,4 +1,16 @@
-#carousel{
-	margin:200px auto;
-	width:100%;
+*{
+	margin:0;
+	padding:0;
+}
+html,body{
+	height:100%;
+}
+body{
+	background: url(../img/background1.jpg);
+	background-size:100% 100%;
+}
+embed{
+	position:absolute;
+	bottom:0;
+	right:0
 }
